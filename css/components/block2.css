@@ -1,15 +1,21 @@
-.uno .un {
+.feat-prod {
+    padding-top: 50px;
     width: var(--content-width);
-   color: #656363;
+    justify-content: center;
     margin: 0 auto;
-    height: 2px;
-    background-color:var(--background-color);
+}
+
+.uno .un {
+    color: #000000;
+    margin: 0 auto;
+    height: 1px;
+
 }
 .feature, .featured
 {
     width: 500px;
     text-align: center;
-    margin: 100px auto;
+    margin: 50px auto;
     font-family: var(--font-family) ;
 
 }
